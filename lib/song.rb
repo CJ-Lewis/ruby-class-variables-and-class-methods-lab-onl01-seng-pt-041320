@@ -1,4 +1,6 @@
 class Song
   @@count = 0
   
-  def 
+  def self.count
+    @@count = count
+  end
