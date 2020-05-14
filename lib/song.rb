@@ -6,3 +6,5 @@ class Song
   end
   
   @@genres = []
+  
+  def self.genres
